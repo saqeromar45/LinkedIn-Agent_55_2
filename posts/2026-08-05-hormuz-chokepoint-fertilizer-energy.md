@@ -4,7 +4,7 @@
 
 **Image:** `assets/hormuz-chokepoint-shipping.png`
 
-**Status:** draft
+**Status:** published as `urn:li:share:7490709806953971712`
 
 **Short copy:**
 ```
