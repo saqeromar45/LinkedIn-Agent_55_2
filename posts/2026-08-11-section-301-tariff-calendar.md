@@ -4,7 +4,7 @@
 
 **Image:** `assets/section-301-tariff-compliance.png`
 
-**Status:** draft (publishing)
+**Published:** `urn:li:share:7492883326756630528`
 
 **Copy:**
 ```
