@@ -4,7 +4,7 @@
 
 **Image:** `assets/section-338-canada-us-border.png`
 
-**Published:** (pending)
+**Published:** `urn:li:share:7496507241764847616`
 
 **Copy:**
 ```
