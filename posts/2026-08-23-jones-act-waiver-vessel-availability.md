@@ -4,7 +4,7 @@
 
 **Image:** `assets/jones-act-waiver-coastwise.png`
 
-**Published:** (pending)
+**Published:** `urn:li:share:7497232610243395584`
 
 **Copy:**
 ```
