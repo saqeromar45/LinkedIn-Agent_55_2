@@ -4,7 +4,7 @@
 
 **Image:** `assets/ceva-3pl-cyber-warehouse.png`
 
-**Status:** draft → publish this run
+**Published:** `urn:li:share:7497959280537464832`
 
 ---
 
