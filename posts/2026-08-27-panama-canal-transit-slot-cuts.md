@@ -4,7 +4,7 @@
 
 **Image:** `assets/panama-canal-transit-slot-cuts.png`
 
-**Published:** (pending)
+**Published:** `urn:li:share:7498682099550580736`
 
 **Short copy:**
 ```
