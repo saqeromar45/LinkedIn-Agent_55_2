@@ -2,7 +2,8 @@
 
 **Date:** 2026-08-29  
 **Angle:** Canada’s counter-tariffs (15/25/50%) take effect 12:01 a.m. Sept 8 on ~$27.6B of U.S.-origin imports across 700+ products; in-transit exemption if documented; two-sided North American tariff regime — distinct from 2026-08-21 Section 338 U.S. entry-date post.  
-**Image:** `assets/canada-retaliatory-tariffs-sept8.png`
+**Image:** `assets/canada-retaliatory-tariffs-sept8.png`  
+**Published:** `urn:li:share:7499407958385197056`
 
 ## LinkedIn copy
 
