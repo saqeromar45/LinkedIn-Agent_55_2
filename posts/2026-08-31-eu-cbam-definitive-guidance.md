@@ -4,7 +4,7 @@
 
 **Image:** `assets/eu-cbam-definitive-guidance.png`
 
-**Published:** (pending)
+**Published:** `urn:li:share:7500131703173312512`
 
 **Copy:**
 ```
