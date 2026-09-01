@@ -4,6 +4,8 @@
 
 **Image:** `assets/eu-ppwr-packaging-compliance.png`
 
+**Published:** `urn:li:share:7500493338740015104`
+
 **Short copy:**
 ```
 Your carton just became a customs-adjacent compliance file.
