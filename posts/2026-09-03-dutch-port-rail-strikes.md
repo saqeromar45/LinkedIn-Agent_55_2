@@ -4,7 +4,7 @@
 
 **Image:** `assets/dutch-port-rail-strikes-sept.png`
 
-**Published:** pending
+**Published:** `urn:li:share:7501219103324561408`
 
 ## LinkedIn copy
 
