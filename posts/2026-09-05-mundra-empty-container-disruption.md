@@ -4,6 +4,8 @@
 
 **Image:** `assets/mundra-empty-container-disruption.jpg`
 
+**Published:** `urn:li:share:7501943846210297856`
+
 **Sources:** India Shipping News / Tradlinx (Mundra yard strike); C.H. Robinson Sep 2026 ocean update (ISC tightness); Kuehne+Nagel port ops update 26 Aug / early Sept Mundra advisories.
 
 ## Post copy
