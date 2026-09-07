@@ -4,6 +4,8 @@
 
 **Image:** `assets/ocean-execution-risk-sept.png`
 
+**Published:** `urn:li:share:7502668227291004928`
+
 **Sources:** C.H. Robinson Sep 2026 Ocean Freight Market Update; Drewry Cancelled Sailings Tracker / Cole Intl (49 blanks Aug 24–Sep 27); NRF Global Port Tracker (via CHR); Maersk/MSC Golden Week blank advisories.
 
 ## Post copy
